@@ -1,0 +1,18 @@
+/* .button {
+    background-color: #0A66C2; /* LinkedIn's primary blue color [5][21] */
+    color: #FFFFFF; /* White text [5] */
+    font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', 'Fira Sans', Ubuntu, Oxygen, 'Oxygen Sans', Cantarell, 'Droid Sans', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Lucida Grande', Helvetica, Arial, sans-serif; /* LinkedIn's font stack [11] */
+    font-weight: 600; /* Semi-bold font weight */
+    text-transform: none; /* LinkedIn doesn't use uppercase for button text */
+    border: none;
+    border-radius: 24px; /* Rounded corners */
+    padding: 12px 24px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .button:hover {
+    background-color: #004182; /* Darker blue on hover [5] */
+  }
+   */
